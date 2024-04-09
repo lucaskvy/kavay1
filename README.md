@@ -1,8 +1,8 @@
 
 
 <p align="center">
-  <a href="https://discord.com/users/539913003286528001">
-    <img src="https://lanyard-profile-readme.vercel.app/api/539913003286528001?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=ROOT" />
+  <a href="https://discord.com/users/pqvctemqserassim">
+    <img src="https://lanyard-profile-readme.vercel.app/api/pqvctemqserassim?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=ROOT" />
   </a>
 </p>
 
