@@ -15,7 +15,6 @@
 
 <p align="center">
   <a href="https://steamcommunity.com/profiles/76561198878402607/"><img src="https://img.shields.io/badge/Steam-0d1117?style=for-the-badge&logo=steam&logoColor=white" /></a>
-  <a href="URL_DO_SEU_PERFIL_NO_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://github.com/lucaskvy/"><img src="https://img.shields.io/badge/Github-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://discord.com/users/539913003286528001"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
